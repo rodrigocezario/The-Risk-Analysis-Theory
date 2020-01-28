@@ -2,7 +2,7 @@
 
  O *The Risk Analysis Theory* é um jogo educacional de tabuleiro com objetivo de simular processos encontrados no dia a dia por  profissionais da área de gerenciamento de projetos, promovendo o aprendizado e compreensão baseado nas boas práticas disseminadas pelo PMBOK.
 A figura a seguir apresenta o tabuleiro do jogo.
- [Tabuleiro do Jogo](TCC%20Lamim/img1.jpg?raw=true "Tabuleiro do Jogo")
+ ![Tabuleiro do Jogo](TCC%20Lamim/img1.jpg?raw=true "Tabuleiro do Jogo")
 
 ## Publicações
 Em breve será disponibilizado o artigo sobre o jogo.
